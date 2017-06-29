@@ -1,10 +1,13 @@
 # Java
 
 MainActivity.java
+
 • FragmentPagerAdapter to create new tabs.
+
 • ViewPager to assign tab to each page.
 
 Tab.java
+
 • Loads WebView into fragment.
 
 # Layout
